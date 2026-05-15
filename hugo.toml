@@ -4,6 +4,7 @@ baseURL = "https://hayakawa-t-2002.pages.dev/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
+contentDir = "exampleSite/content"
 
 # Basic metadata configuration for your blog.
 title = "みならいチームすとーんず"
