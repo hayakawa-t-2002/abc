@@ -64,3 +64,6 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+[module]
+  [[module.imports]]
+    path = "github.com/janraasch/hugo-bearblog"
